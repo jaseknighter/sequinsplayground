@@ -12,11 +12,11 @@ UI = require "ui"
 cs = require 'controlspec'
 
 -- required for multiple files
-globals = include "sequins_playground/lib/globals"
+globals = include "sequinsplayground/lib/globals"
 
-encoders_and_keys = include "sequins_playground/lib/encoders_and_keys"
-sequins_playground_pages = include "sequins_playground/lib/sequins_playground_pages"
+encoders_and_keys = include "sequinsplayground/lib/encoders_and_keys"
+sequinsplayground_pages = include "sequinsplayground/lib/sequinsplayground_pages"
 
-parameters = include "sequins_playground/lib/parameters"
-playground = include "sequins_playground/lib/playground"
-externals =  include "sequins_playground/lib/externals"
+parameters = include "sequinsplayground/lib/parameters"
+playground = include "sequinsplayground/lib/playground"
+externals =  include "sequinsplayground/lib/externals"
