@@ -1,7 +1,7 @@
 # sequinsplayground
  
 ## installation
-type on the maiden repl command line: `;install https://github.com/jaseknighter/sequinsplayground
+type on the maiden repl command line: `;install https://github.com/jaseknighter/sequinsplayground`
 
 ## instructions
 open the *playground.lua* file. the code changes in *part 2* and *part 3* below reference this file.
